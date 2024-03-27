@@ -7,9 +7,9 @@
 
 *<h3>About me ? Well...</h3>*
 
-*Full Stack Developer graduated from Soy Henry academy, with studies in Computer Engineering and self-taught, with a strong preference in Back End development; I believe that I have everything that is required to develop solutions optimally, while communicating in a clear, simple and efficient way.*
+*● I learned about programming at the engineering university in 2017, they taught me how to apply mathematics through of code and I loved it!*
 
-*● I learned about programming at the engineering university in 2017, where they taught me how to apply mathematics through code, and I loved it! Since then, I've been learning and programming on my own. In 2023, I decided to dedicate my professional future entirely to web development, so I studied at Soy Henry academy, obtaining a certificate to support me in my job search.*
+*● Since then, I've been learning and programming on my own. In 2023, I decided to obtain a certificate to kickstart my job search. I studied at the Soy Henry academy, graduated as a Full Stack Developer..*
 
 *● Currently, I'm on the lookout for opportunities as a Full Stack Developer, or even better, as a Backend Developer!*
 
