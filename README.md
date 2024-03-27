@@ -27,3 +27,5 @@
 *<h4 > LinkedIn: https://www.linkedin.com/in/leonardobaranelli</h4>* 
 *<h4 > Email: leoabaranelli@gmail.com</h4>*
 ![Funny Frog](funnyFrog.gif)
+
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="sql" width="40" height="40"/></a>
